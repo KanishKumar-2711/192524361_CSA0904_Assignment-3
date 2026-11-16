@@ -2,9 +2,9 @@
 ## Exception Handling, Resource Safety & Multithreading
 
 ### Student Details
-- **Name:** PURUSHOTHAMAN.V
-- **Register Number:** 192511064
-- **Department:** Computer Science and Engineering
+- **Name:** Kanish Kumar V
+- **Register Number:** 192524361
+- **Department:** Artificial Intelligence & Data Science
 
 ### Development Environment
 - **IDE:** Visual Studio Code (VS Code)
@@ -86,5 +86,5 @@ Screenshots of the program executions and terminal outputs are maintained in the
 This assignment provided practical engineering experience in building fault-tolerant, resource-safe, and thread-safe Java applications using Visual Studio Code.
 
 ---
-**Submitted by:** PURUSHOTHAMAN.V  
-**Register Number:** 192511064
+**Submitted by:** Kanish Kumar V
+**Register Number:** 192524361
